@@ -18,23 +18,23 @@ Github 最近上线了成就系统，作为一个截至目前原神成就达 636
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/1.webp">
+  <img src="https://raw.github.ink/wlc743859910/GitHub_Achievements/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/2.webp">
+  <img src="https://raw.github.ink/wlc743859910/GitHub_Achievements/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/3.webp">
+  <img src="https://raw.github.ink/wlc743859910/GitHub_Achievements/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/4.webp">
+  <img src="https://raw.github.ink/wlc743859910/GitHub_Achievements/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/GitHub_Achievements/img/5.webp">
+  <img src="https://raw.github.ink/wlc743859910/GitHub_Achievements/master/img/5.webp">
 </p>
 
 ---
