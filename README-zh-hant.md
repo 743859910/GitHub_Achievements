@@ -1,6 +1,8 @@
 # GitHub_Achievements
 
-English 简体中文 繁體中文： | [English](https://github.com/wlc743859910/Xiaomi_Router_R1D_Hosts/blob/master/README.md) | [简体中文](https://github.com/wlc743859910/Xiaomi_Router_R1D_Hosts/blob/master/README-zh-hans.md) | [繁體中文](https://github.com/wlc743859910/Xiaomi_Router_R1D_Hosts/blob/master/README-zh-hant.md) | 
+---
+
+English 简体中文 繁體中文： | [English](https://github.com/wlc743859910/GitHub_Achievements/blob/master/README.md) | [简体中文](https://github.com/wlc743859910/GitHub_Achievements/blob/master/README-zh-hans.md) | [繁體中文](https://github.com/wlc743859910/GitHub_Achievements/blob/master/README-zh-hant.md) | 
 
 ---
 
