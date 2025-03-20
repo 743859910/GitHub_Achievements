@@ -135,23 +135,23 @@ If you have questions or suggestions on how to improve the information on this p
 ---
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Achievements/master/img/1.webp">
+  <img src="./img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Achievements/master/img/2.webp">
+  <img src="./img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Achievements/master/img/3.webp">
+  <img src="./img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Achievements/master/img/4.webp">
+  <img src="./img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://hub.tcpmini.news/https://raw.githubusercontent.com/743859910/GitHub_Achievements/master/img/5.webp">
+  <img src="./img/5.webp">
 </p>
 
 ---
