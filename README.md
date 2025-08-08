@@ -159,7 +159,7 @@ If you have questions or suggestions on how to improve the information on this p
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{GitHub_Achievements}/count.svg)
+![name](https://api.likepoems.com/counter/get/@GitHub_Achievements)
 
 ---
 
