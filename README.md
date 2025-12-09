@@ -159,10 +159,6 @@ If you have questions or suggestions on how to improve the information on this p
 
 ---
 
-![name](https://api.likepoems.com/counter/get/@GitHub_Achievements)
-
----
-
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
