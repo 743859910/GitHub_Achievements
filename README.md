@@ -169,6 +169,6 @@ If you have questions or suggestions on how to improve the information on this p
 
 [MIT License](https://github.com/743859910/GitHub_Achievements/blob/master/LICENSE)
 
-Copyright © 2008 - 2025 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
+Copyright © 2008 - 2026 743859910. All Rights Reserved. 我只是你的过客工作室. 版权所有
 
 ---
